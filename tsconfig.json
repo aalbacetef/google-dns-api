@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "module": "ESNext",
+
+    "declaration": true,
+    "lib": ["es2018", "dom"], 
+    "rootDir": ".",
+    "outDir": "dist",
+    "strict": true,
+    "strictNullChecks": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "test/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "dist",
+    "example",
+    "rollup.config.mjs"
+  ]
+}
