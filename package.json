@@ -1,7 +1,13 @@
 {
   "name": "google-dns-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Client for the Google JSON DNS over HTTPS API.",
+  "repository": "github:aalbacetef/google-dns-api",
+  "keywords": ["dns", "google", "api"],
+  "author": "Arturo Albacete",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/aalbacetef/google-dns-api#readme",
+  "bugs": "https://github.com/aalbacetef/google-dns-api/issues",
   "main": "./dist/index.js",
   "types": "./dist/src/index.d.ts",
   "files": [
@@ -9,25 +15,22 @@
   ],
   "scripts": {
     "prepare": "make dist",
-    "pretest": "make dist",
-    "posttest": "make lint"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@eslint/js": "^9.11.1",
     "@rollup/plugin-typescript": "^12.1.0",
     "@types/bun": "^1.1.10",
     "@types/node": "^22.7.4",
-    "@vitest/coverage-v8": "^2.1.1",
     "ajv": "^8.17.1",
     "ajv-formats-draft2019": "^1.6.1",
-    "eslint": "^9.11.1",
     "rollup": "^4.23.0",
     "tslib": "^2.7.0",
     "tsx": "^4.19.1",
     "typescript": "^5.6.2",
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "@vitest/coverage-v8": "^2.1.1",
+    "eslint": "^9.11.1",
     "typescript-eslint": "^8.8.0",
     "vitest": "^2.1.1"
   }
