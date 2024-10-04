@@ -1,4 +1,4 @@
-![CI status](https://github.com/aalbacetef/google-dns-api-wip/actions/workflows/ci.yml/badge.svg)   [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![npm version](https://img.shields.io/npm/v/google-dns-api.svg)](https://www.npmjs.com/package/google-dns-api)
+![CI status](https://github.com/aalbacetef/google-dns-api/actions/workflows/ci.yml/badge.svg)   [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![npm version](https://img.shields.io/npm/v/google-dns-api.svg)](https://www.npmjs.com/package/google-dns-api)
 
 # google-dns-api
 
