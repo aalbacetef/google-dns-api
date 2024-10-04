@@ -3,7 +3,9 @@
 # google-dns-api
 
 
-A TypeScript wrapper for Google's DNS over HTTPS (DoH) JSON API. This package allows you to easily perform DNS queries (e.g. A, AAAA, MX, etc.) directly from your web application without the need for a backend server or browser extensions.
+A TypeScript wrapper for Google's DNS over HTTPS (DoH) JSON API. 
+
+This package allows you to easily perform DNS queries (e.g. A, AAAA, MX, etc.) directly from your web application without the need for a backend server or browser extensions.
 
 ## Features
 
