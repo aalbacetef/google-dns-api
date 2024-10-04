@@ -1,0 +1,20 @@
+{
+  "status": 0,
+  "isTruncated": false,
+  "isDNSSECValidated": true,
+  "isCheckingDisabled": false,
+  "question": [
+    {
+      "name": "example.com.",
+      "type": "A"
+    }
+  ],
+  "answer": [
+    {
+      "name": "example.com.",
+      "type": "A",
+      "TTL": 423,
+      "data": "93.184.215.14"
+    }
+  ]
+}

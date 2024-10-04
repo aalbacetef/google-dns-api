@@ -1,0 +1,26 @@
+{
+  "status": 0,
+  "isTruncated": false,
+  "isDNSSECValidated": true,
+  "isCheckingDisabled": false,
+  "question": [
+    {
+      "name": "example.com.",
+      "type": "TXT"
+    }
+  ],
+  "answer": [
+    {
+      "name": "example.com.",
+      "type": "TXT",
+      "TTL": 11139,
+      "data": "wgyf8z8cgvm2qmxpnbnldrcltvk4xqfn"
+    },
+    {
+      "name": "example.com.",
+      "type": "TXT",
+      "TTL": 11139,
+      "data": "v=spf1 -all"
+    }
+  ]
+}
