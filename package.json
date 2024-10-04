@@ -14,7 +14,7 @@
     "dist"
   ],
   "scripts": {
-    "prepare": "make dist",
+    "prepare": "make dist"
   },
   "dependencies": {
     "@rollup/plugin-typescript": "^12.1.0",
