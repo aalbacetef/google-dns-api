@@ -2,8 +2,15 @@
   "name": "google-dns-api",
   "version": "1.0.0",
   "description": "Client for the Google JSON DNS over HTTPS API.",
-  "repository": "github:aalbacetef/google-dns-api",
-  "keywords": ["dns", "google", "api"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalbacetef/google-dns-api.git"
+  },
+  "keywords": [
+    "dns",
+    "google",
+    "api"
+  ],
   "author": "Arturo Albacete",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/aalbacetef/google-dns-api#readme",
