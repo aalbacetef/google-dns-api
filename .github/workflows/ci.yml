@@ -17,3 +17,12 @@ jobs:
       - run: bun i
       - run: make lint
   
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun i
+      - run: make test
+  
