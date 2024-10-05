@@ -167,7 +167,7 @@ If true, disables DNSSEC validation.
 
 default: "application/x-javascript"
 
-If set to `application/x-javascript`, you will have the response in JSON format. Use `application/dns-message` to receive a binary DNS message in the response HTTP body instead of JSON text (Note: this is not currently supported via the `query` or `Client`.
+If set to `application/x-javascript`, you will have the response in JSON format. Use `application/dns-message` to receive a binary DNS message in the response HTTP body instead of JSON text (Note: this is not currently supported via the `query` or `Client`).
 
 ##### DNSSEC
 
