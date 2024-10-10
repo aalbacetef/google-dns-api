@@ -10,9 +10,9 @@ This package allows you to easily perform DNS queries (e.g. A, AAAA, MX, etc.) d
 ## Features
 
 - **TypeScript support**: Fully typed API, offering great autocompletion and type safety when using modern IDEs.
-- **Simple to use**: Perform DNS queries with just a few lines of code. It also offers nicer and clearer wrappers the Google Request and Response objects.
+- **Simple to use**: Perform DNS queries with just a few lines of code. It also offers nicer and clearer wrappers around the Google Request and Response objects.
 - **No backend required**: Directly query Google's DNS API from the browser.
-- **Supports multiple DNS record types**: Query for `A`, `AAAA`, `MX`, `TXT`, `CNAME`, and more (all 48 record types supported by Google).
+- **Supports multiple DNS record types**: Query for `A`, `AAAA`, `MX`, `TXT`, `CNAME`, and more (all 32 record types supported by Google).
 
 ## Installation
 
