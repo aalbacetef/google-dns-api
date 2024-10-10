@@ -1,6 +1,6 @@
 {
   "name": "google-dns-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client for the Google JSON DNS over HTTPS API.",
   "repository": {
     "type": "git",
@@ -9,7 +9,10 @@
   "keywords": [
     "dns",
     "google",
-    "api"
+    "api",
+    "client",
+    "https",
+    "json"
   ],
   "author": "Arturo Albacete",
   "license": "BSD-3-Clause",
