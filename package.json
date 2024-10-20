@@ -1,6 +1,6 @@
 {
   "name": "google-dns-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Client for the Google JSON DNS over HTTPS API.",
   "repository": {
     "type": "git",
