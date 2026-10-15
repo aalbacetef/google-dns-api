@@ -2,7 +2,7 @@ import { RecordType, dnsStringTypes, numericToStr } from './dns';
 import * as google from './google';
 import { Logger, NoopLogger } from './util/logger';
 import Ajv, { JSONSchemaType } from "ajv"
-import formats from 'ajv-formats-draft2019/formats';
+import formats from 'ajv-formats-draft2019/formats/index.js';
 
 const baseURL = 'https://dns.google.com/resolve';
 
